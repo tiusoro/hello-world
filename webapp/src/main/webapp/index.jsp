@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>User Registration for Tita Learning DevOps Learning</h1>
+    <h1>User Registration for Tita Learning DevOps Training</h1>
     <p>Please fill in this form to create an account.</p>
      <hr>
     <label for="Name"><b>Enter Name</b></label>
