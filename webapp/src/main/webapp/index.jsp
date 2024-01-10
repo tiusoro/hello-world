@@ -1,3 +1,4 @@
+
 <form action="action_page.php">
   <div class="container">
     <h1>User Registration for Tita Learning DevOps Training</h1>
@@ -6,7 +7,7 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    <br>    
+    <br>
     <label for="mobile"><b>Enter Mobile</b></label>
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br>
@@ -33,5 +34,8 @@
 
    <h2>Thank you & Happy Learning</h2>
 
-  
+
 </form>
+
+
+
